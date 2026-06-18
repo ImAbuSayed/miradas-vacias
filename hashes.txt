@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Miradas vacías
+
+This log tracks the cryptographic history and versioning for the song **Miradas vacías** (miradas-vacias).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T06:37:42.367331 | `v1` | `4a5d75165b78b158a11f9c881ec32ebb58a43df100d79522bc2e2ddc836cca8a` | `05d31b92b51dce3ae0b3de3b8691d4e5a2d0bf3d3d58aa188fea94d067a05684` | `2026-06-18_miradas-vacias-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

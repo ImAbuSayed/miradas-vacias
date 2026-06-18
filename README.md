@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/miradas-vacias/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Miradas vacías](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/miradas-vacias/) |
+| **Get License** | [Get License For Miradas vacías](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/miradas-vacias/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, tú tienes esa vibra que me mata,
+> Una mirada vacía que la mente me arrebata.
+> Cruzamos miradas, the room is on fire,
+> Quiero llevarte a lo oscuro, my only desire.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
